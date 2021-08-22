@@ -14,5 +14,7 @@ As stopwords dessa versão não estão totalmente "calibradas" como na versão m
 Redes Sociais / Social Midia:
 
 LinkedIn = https://www.linkedin.com/in/andregreboge/
+
 Twitter = https://twitter.com/AGreboge
+
 Instagram = https://www.instagram.com/andregreboge/
