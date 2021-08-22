@@ -43,17 +43,15 @@ excluir = ['de','o','por','não','um','a','para','isso','é','mais','foram','vem
 
 
 
-jgp = 'C:\\Users\\André Greboge\\PycharmProjects\\SuperRankFIDCS\\carta\\jgp\\'
+jgp = 'C:\\Users\\André Greboge\\PycharmProjects\\SuperRankFIDCS\\carta\\'
 
-gestores = [jgp]
+gestores = []
 
-x=0
 
 for gestor in gestores:
     cols = ['','','','','','','','','','']
     comum = []
     pdfs = ['0121','0221','0321','0421','0521','0621','0721']
-    xx = x+1
     for pdf in pdfs:
         # comum = []
         pdf_ler = parser.from_file(gestor + pdf + '.pdf')
